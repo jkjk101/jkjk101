@@ -1,9 +1,3 @@
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-# My GitHub Profile
+## My TryHackMe Badge
 
-## TryHackMe Badge
-
-![My Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2383570)
-
-Or you can check it out [here](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2383570).
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2383570" style='border:none;'></iframe>
